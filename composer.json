@@ -1,6 +1,7 @@
 {
 	"name": "wadday/test",
 	"description": "My first composer project",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Wadday Hassan",
