@@ -1,0 +1,19 @@
+{
+	"name": "wadday/test",
+	"description": "My first composer project",
+	"authors": [
+		{
+			"name": "Wadday Hassan",
+			"email": "iwadday@gmail.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"HellowWord": "src/"
+		}
+	}
+}
